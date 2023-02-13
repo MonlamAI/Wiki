@@ -1,7 +1,7 @@
 # ✅དག་ཆ་གཅིག་གྱུར།
 
 > ## ཞེ་བོ་
-> ཞེ་པུ། ཞེད་པོ།
+> ཞེ་པུ་ ཞེད་པོ་
 
 **གོ་དོན།**: ཧ་ཅང་།  
 
@@ -9,27 +9,11 @@
 
 **ཡུལ་སྐད།** དབུས་སྐད།
 
-- དཔེ་མཚོན། རྒྱལ་བ་རིན་པོ་ཆེ།
-
-<audio controls><source src="https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3?raw=true" type="audio/mpeg"></audio>
-
-
-
-### ཞེ་པུ།
 
 > ## བྱས་བྱས།
+> ཅེས་བྱས། བཅས་བྱེད། བཅས་བྱེད།
+**གོ་དོན།**: ཧ་ཅང་།  
 
-**གོ་དོན།**: ཧ་ཅང་།  **འབྱུང་ཁུངས།**: ཞེད་པོ།  **ཡུལ་སྐད།** དབུས་སྐད།
+**འབྱུང་ཁུངས།**: ཞེད་པོ།  
 
-- ཅེས་བྱས།
-
-<audio controls><source src="https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3?raw=true" type="audio/mpeg"></audio>
-
-- བཅས་བྱེད། 
-
-<audio controls><source src="https://github.com/MonlamAI/Wiki/blob/main/docs/stt/assets/0123.mp3?raw=true" type="audio/mpeg"></audio>
-
-
-
-### བཅས་བྱེད།
-བཀྲ་ཤིས་ཚེ་རིང།
+**ཡུལ་སྐད།** དབུས་སྐད།
