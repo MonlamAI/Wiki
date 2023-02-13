@@ -7,8 +7,11 @@
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/qv2UBxyjrzg" title="Get title and download from libgen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<details>
-  <summary>རིས་འགྲེལ།</summary>
+## མཚན་བྱང་འཚོལ་ཞིབ་དང་འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
+ཐོག་མར་རེའུ་མིག་ནང་དུ་ བོད་རྟགས{དཔེ་ཆའི་མཚན་གཞུང} ཁུངས། ཡིག་ཆའི་རྣམས་པ་བཅས་ཡོད།
+### མཚན་བྱང་འཚོལ་ཞིབ་དང་འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ་ལ་ཐབས་ལམ་གཉིས་ཡོད།
+#### དང་པོ
+  
 1. ...
 2. ...
 </details>
