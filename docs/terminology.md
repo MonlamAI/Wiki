@@ -16,7 +16,7 @@ Some epubs and pdfs contains hardcoded images and dont qualify as softcoded file
 > ## ཡིག་འཛིན། 
 > OCR, optical character recognition
 
-ཡིག་འཛིན་མཉེན་ཆས་བརྒྱུད་ནས་ཡིག་རྐྱང་ལེན་རྒྱུ།
+ཡིག་འཛིན་མཉེན་ཆས་བརྒྱུད་ནས་པར་ངོས་ནས་ལེན་པའི་ཡིག་རྐྱང་།
 
 > ## ཡིག་རྐྱང་ལེན་རྒྱུ། 
 > Parse etext
