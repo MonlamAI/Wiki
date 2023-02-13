@@ -21,19 +21,20 @@ Some epubs and pdfs contains hardcoded images and dont qualify as softcoded file
 > ## ཡིག་རྐྱང་ལེན་རྒྱུ། 
 > Parse etext
 
-> ## ཡིག་རྐྱང་ཞུ་དག་མ་བཏང་བ། 
-> raw etext
+> ## ཡིག་རྐྱང་རགས་རིམ། 
+> Raw etext
 
 > ## ཞུ་དག་དང་གཙང་བཟོ་བྱ་རྒྱུ། 
-> Clean up \ proofread
+> Clean up / proofread
 
 
 > ## གཙང་བཟོ་ཟིན་པའི་ཡིག་རྐྱང་། 
-> clean etext
+> Clean etext
 
-> ## གཞུང་དངོས་ཀྱི་ཡིག་རྐྱང་མ་ཕྱི། 
+> ## ཡིག་རྐྱང་མ་ཕྱི། 
 > Examplar etext
 
+གཞུང་དངོས་ཀྱི་ཡི་གེ་ཁོ་ན་་་
 
 > ## དཔེ་རྒྱུན་དཀར་ཆག 
 > Version sheet
