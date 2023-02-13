@@ -62,6 +62,25 @@ Some epubs and pdfs contains hardcoded images and dont qualify as softcoded file
 > Parse etext
 
 
+> ## ཐིག་རིས་རགས་རིམ།
+> Rough layout labels
+
+
+> ## ལེགས་བཅོས་ཟིན་པའི་ཐིག་རིས་ཁག
+> Corrected labels
+
+
+> ## བཟོ་བཀོད་ཞིབ་བཤེར་མཉེན་ཆས།
+> LA model
+
+
+> ## ཚད་ལྡན་དཔེ་མཚོན།
+> Benchmark
+
+
+
+
+
 
 
 
