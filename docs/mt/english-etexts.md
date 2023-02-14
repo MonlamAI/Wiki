@@ -60,7 +60,7 @@
 ![text open](https://user-images.githubusercontent.com/124126972/218710373-838fa849-d011-4c35-889d-80017726cbff.jpg)
 
 ## ཁྱེད་རང་གི་formatsའདི་ཁ་ཕྱེ།
-### note pad གྱི་རི་མོ་དེ་འ་སྣོན་ནས་open with note pad ཞེས་པ་དེ་ཁ་ཕྱེ།
+### note pad གྱི་རི་མོ་དེ་་སྣོན་ནས་open with note pad ཞེས་པ་དེ་ཁ་ཕྱེ།
 ![open note pad](https://user-images.githubusercontent.com/124126972/218713238-7d7cc690-f0e4-4a03-8340-77f61dd7c86d.jpg)
 
 #### དེབ་འདི་ཁ་ཕྱེ་བ་དང་འདི་ནང་དུ་footnoteཞེས་ཤོག་ངོས་རེ་རེ་གོང་ལ་མཚན་གཞུང་ཡང་ན་རི་མོ་བཟོ་ལྟ་དགོས་མི་དགོས་མང་པོ་ཞིག་ཡོད་རེད།
