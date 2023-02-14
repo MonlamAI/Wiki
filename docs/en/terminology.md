@@ -8,5 +8,5 @@ This refers to any documents made of selectable text as oppose to hardcoded text
 > **Warning**
 > Some epubs and pdfs contains hardcoded images and dont qualify as softcoded files. Some pdfs contains both hardcoded images and selectable softcoded text.
 
-### Parse: ཚིག་གཤིས་སྦྱོར་བ།
-To divide (a sentence) into grammatical parts and identify the parts and their relations to each other.
+### Layout: ཤོག་ངོས་ཀྱི་བཀོད་པ།
+Refers to the page layout of book, Title, content, page number, Tibetan book, Modern book etc.

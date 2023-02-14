@@ -8,10 +8,9 @@
 
 Some epubs and pdfs contains hardcoded images and dont qualify as softcoded files. Some pdfs contains both hardcoded images and selectable softcoded text.
 
-> ## བཤེར་པར། 
-> Scan, scanned image
+> ## བཤེར་པར། Scan, scanned image
 
-བཀོད་རིས་ཅན་གྱི་ངོས་ཤིག་ཏུ་ཞིབ་གསལ་གྱིས་འདུས་པའི་གློག་རྡུལ་ལམ་འོད་མདངས་ཀྱི་ཁ་ཕྱོགས་གཏད་དེ་བརྙན་པར་ལ་ཞིབ་བཤེར་གྱིས་བསྐྱར་སྐྲུན་བྱེད་དེ་བརྙན་འཕྲིན་དུ་བརྒྱུད་གཏོང་བྱེད་པ།
+དཔེ་ཆའམ་ཡང་ན་ཡིག་ཆ་གང་ཞིག་བཤེར་འབེབས་བྱས་རྗེས་ཀྱི་དཔེ་ཆའི་པར་ལ་ཟེར། བཤེར་པར་ཡང་ཟེར།
 
 > ## ཡིག་འཛིན། 
 > OCR, optical character recognition
