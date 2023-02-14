@@ -24,7 +24,7 @@ Some epubs and pdfs contains hardcoded images and dont qualify as softcoded file
 > ## ཡིག་རྐྱང་རགས་རིམ། 
 > Raw etext
 
-> ## ཞུ་དག་དང་གཙང་བཟོ་བྱ་རྒྱུ། 
+> ## གཙང་བཟོ་དང་ཞུ་དག་བྱ་རྒྱུ།
 > Clean up / proofread
 
 
@@ -74,7 +74,7 @@ Some epubs and pdfs contains hardcoded images and dont qualify as softcoded file
 > ## ཚད་ལྡན་དཔེ་མཚོན།
 > Benchmark
 
-> ## བཟོ་བཀོད་ལ་ཞིབ་བཤེར་བྱ་རྒྱ།
+> ## བཟོ་བཀོད་ལ་ཞིབ་བཤེར་བྱ་རྒྱུ།
 > Analyse layout
 
 
