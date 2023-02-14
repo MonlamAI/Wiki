@@ -42,45 +42,50 @@
 ### ཕབ་ལེན་བྱེད་ཚར་བ་དེ་ལ་སྣོན།
 ![ཕབ་ལེན།](https://user-images.githubusercontent.com/124126972/218699253-fa4018e3-471e-464a-9867-4254ddad6983.jpg)
 
-
 ### EPUB རྩོམ་སྒྲིག་རྒྱག་སའི་བསྙན་གཞི་the main collibrate དེ་སྒོ་ཕྱེ།
-![session name1 (7)](https://user-images.githubusercontent.com/124126972/218701494-a63440e9-0bfa-430a-b081-57630513f6ac.jpg)
+![main collibrate](https://user-images.githubusercontent.com/124126972/218701494-a63440e9-0bfa-430a-b081-57630513f6ac.jpg)
 
-འདི་ནས་formatsསྒང་ལ་སྣོན།
-![session name1 (8)](https://user-images.githubusercontent.com/124126972/218702747-127c7743-1e8f-44ae-8a06-ef7e62609f7c.jpg)
+#### འདི་ནས་formatsསྒང་ལ་སྣོན།
+![formats](https://user-images.githubusercontent.com/124126972/218702747-127c7743-1e8f-44ae-8a06-ef7e62609f7c.jpg)
 
+#### དེ་ནས་རྟགས་དམར་པོ་བྱེད་པ་convert book སྣོན་ནས་མཚོན་གསེར་པོ་བྱེད་པ་bulk convert ལ་སྣོན།
+![convert](https://user-images.githubusercontent.com/124126972/218706387-68e06fb6-18ac-4d20-84f6-f8be04112b46.jpg)
 
-དེ་ནས་རྟགས་དམར་པོ་བྱེད་པ་convert book སྣོན་ནས་མཚོན་གསེར་པོ་བྱེད་པ་bulk convert ལ་སྣོན།
-![session name1 (9)](https://user-images.githubusercontent.com/124126972/218706387-68e06fb6-18ac-4d20-84f6-f8be04112b46.jpg)
-
-
-output formats ནས་ txt ལ་སྣོན་ནས་ཡིག་རྐྱང་ལ་བསྒྱུར་འགྲོ་བ་ཞིག་རེད།
-![session name1 (10)](https://user-images.githubusercontent.com/124126972/218707533-73ccf88f-c44e-4ae6-a159-7a6df691bc10.jpg)
-
+#### output formats ནས་ txt ལ་སྣོན་ནས་ཡིག་རྐྱང་ལ་བསྒྱུར་འགྲོ་བ་ཞིག་རེད།
+![txt](https://user-images.githubusercontent.com/124126972/218707533-73ccf88f-c44e-4ae6-a159-7a6df691bc10.jpg)
 
 ## ཡིག་རྐྱང་ལ་ཇི་ལྟར་བལྟ་དགོས་པ།
-txt ཡང་ན་ click to open གང་རུང་ལ་སྣོན།
-![session name1 (11)](https://user-images.githubusercontent.com/124126972/218710373-838fa849-d011-4c35-889d-80017726cbff.jpg)
 
+### txt ཡང་ན་ click to open གང་རུང་ལ་སྣོན།
+![text open](https://user-images.githubusercontent.com/124126972/218710373-838fa849-d011-4c35-889d-80017726cbff.jpg)
 
-ཁྱེད་རང་གི་formatsའདི་ཁ་ཕྱེ།
+## ཁྱེད་རང་གི་formatsའདི་ཁ་ཕྱེ།
+### note pad གྱི་རི་མོ་དེ་འ་སྣོན་ནས་open with note pad ཞེས་པ་དེ་ཁ་ཕྱེ།
+![open note pad](https://user-images.githubusercontent.com/124126972/218713238-7d7cc690-f0e4-4a03-8340-77f61dd7c86d.jpg)
 
-note pad གྱི་རི་མོ་དེ་འ་སྣོན་ནས་open with note pad ཞེས་པ་དེ་ཁ་ཕྱེ།
+#### དེབ་འདི་ཁ་ཕྱེ་བ་དང་འདི་ནང་དུ་footnoteཞེས་ཤོག་ངོས་རེ་རེ་གོང་ལ་མཚན་གཞུང་ཡང་ན་རི་མོ་བཟོ་ལྟ་དགོས་མི་དགོས་མང་པོ་ཞིག་ཡོད་རེད།
+![foot note](https://user-images.githubusercontent.com/124126972/218714229-a1fed890-1d26-42c6-b5b2-09212ee0142e.jpg)
 
-## གལ་སྲིད་རྩོམ་སྒྲིག་བྱེད་སའི་བསྙན་གཞི།
-སྒེའུ་ཁུང་རྟགས་ཅན་ཡིན་ན་note paད
+## རྩོམ་སྒྲིག་བྱེད་སའི་བསྙན་གཞི།
+སྒེའུ་ཁུང་རྟགས་ཅན་ཡིན་ན་note pad
+
 ཀུ་ཤུ་རྟགས་ཅན་ཡིན་ན་text editor
 
-## དེབ་འདི་ནང་དུ་footnoteཞེས་ཤོག་ངོས་རེ་རེ་གོང་ལ་མཚན་གཞུང་ཡང་ན་རི་མོ་བཟོ་ལྟ་དགོས་མི་དགོས་མང་པོ་ཞིག་ཡོད་རེད།
-
 ## རྩོམ་སྒྲིག་བྱེད་དགོས་དོན་ནི་ཡིག་རྐྱང་དགོས་མི་དགོས་པ་རྣམས་གཙང་བཟོ་བྱ་རྒྱུ་དེ་རེད།
-### དཔེར་ན་། གལ་སྲིད་F.W.WOODWORTHཡི་གེ་འདི་ཡི་གེ་གཞན་ལ་བསྒྱུར་དགོས་ན་།
-ཡི་གེ་དེ་ལ་རྟགས་ཞིག་རྒྱགས་།
-དེ་ནས་editལ་སྣོན་ནས་replace ནང་དུ་འགྱུར་བ་བཏང་ཆོག།
-ཡི་གེ་ཆ་ཚང་འགྱུར་བ་གཏོང་དགོས་ཚེས་all replace ལ་སྣོན།
 
-## རྩོམ་སྒྲིག་ཚར་བ་དང་ཉར་ཚག་བྱེད་དགོས་ན།
-ལག་གྱོན་ཕྱོགས་ཀྱི་ཕfile ཞེས་པ་ལ་སྣོན་ནས་save ཡང་ན་ save as 
+### དཔེར་ན་། གལ་སྲིད་F.W.WOODWORTHཡི་གེ་འདི་ཡི་གེ་གཞན་ལ་བསྒྱུར་དགོས་ན་།
+
+### ཡི་གེ་དེ་ལ་རྟགས་ཞིག་རྒྱགས་།
+![F.W.WOODWORTH](https://user-images.githubusercontent.com/124126972/218715063-65c32f97-4026-4040-a913-fc3a264582fc.jpg)
+
+### དེ་ནས་editལ་སྣོན་ནས་replace ནང་དུ་འགྱུར་བ་བཏང་ཆོག།
+ཡི་གེ་ཆ་ཚང་འགྱུར་བ་གཏོང་དགོས་ཚེས་all replace ལ་སྣོན།
+![replace](https://user-images.githubusercontent.com/124126972/218715696-5046a360-f8c8-48fc-8994-e7b424023ec0.jpg)
+
+## རྩོམ་སྒྲིག་ཚར་བ་དང་ཉར་ཚག་བྱེད་
+### ལག་པ་གཡོན་ཕྱོགས་སུ་file ཞེས་པ་ལ་སྣོན་ནས་save ཡང་ན་ save as 
+![save](https://user-images.githubusercontent.com/124126972/218719414-df820689-69d6-46fc-8c37-fd0bc6e893ed.jpg)
+
 
 
 
