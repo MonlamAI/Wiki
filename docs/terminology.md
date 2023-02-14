@@ -8,7 +8,8 @@
 
 Some epubs and pdfs contains hardcoded images and dont qualify as softcoded files. Some pdfs contains both hardcoded images and selectable softcoded text.
 
-> ## བཤེར་པར། Scan, scanned image
+> ## བཤེར་པར། 
+> Scan, scanned image
 
 དཔེ་ཆའམ་ཡང་ན་ཡིག་ཆ་གང་ཞིག་བཤེར་འབེབས་བྱས་རྗེས་ཀྱི་དཔེ་ཆའི་པར་ལ་ཟེར། བཤེར་པར་ཡང་ཟེར།
 
