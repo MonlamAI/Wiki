@@ -62,7 +62,7 @@ Some epubs and pdfs contains hardcoded images and dont qualify as softcoded file
 > Parse etext
 
 
-> ## ཐིག་རིས་རགས་རིམ།
+> ## བཟོ་བཀོད་ཐིག་རིས་རགས་རིམ།
 > Rough layout labels
 
 > ## ལེགས་བཅོས་ཟིན་པའི་ཐིག་རིས་ཁག
@@ -77,8 +77,14 @@ Some epubs and pdfs contains hardcoded images and dont qualify as softcoded file
 > ## བཟོ་བཀོད་ལ་ཞིབ་བཤེར་བྱ་རྒྱུ།
 > Analyse layout
 
+> ## ཚད་ལྡན་དཔེ་མཚོན་སྤྱད་དེ་རིག་ནུས་མཉེན་ཆས་ཀྱི་ནུས་ཚད་འཇལ་རྒྱུ།
+> Evaluate model with the benchmark
 
+> ## དགོས་དགུའི་མཛོད།
+> Google Drive
 
+> ## མཐའ་བསྡོམས།
+> Inference
 
 
 
