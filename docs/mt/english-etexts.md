@@ -29,19 +29,10 @@
 ![pecha image](https://user-images.githubusercontent.com/124126972/218646115-359292a3-6bc3-45ac-9dff-9741318d114c.jpg)
 
 ### མཐའ་མ་getཞེས་པ་ལ་སྣོན་ནས་ཕབ་ལེན་བྱེད་ཐུབ།
-![པབ་ལེན།](https://user-images.githubusercontent.com/124126972/218648875-022a4d62-6447-44c0-9ee8-e3d8856b9bdf.jpg)
+![པབ་ལེན།](https://user-images.githubusercontent.com/124126972/218648875-022a4d62-6447-44c0-9ee8-e3d8856b9bdf.jp
 
 
 
-
-
-
-
-
-  
-1. ...
-2. ...
-</details>
 
 ## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 
