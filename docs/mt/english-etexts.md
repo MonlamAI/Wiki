@@ -29,7 +29,7 @@
 ![pecha image](https://user-images.githubusercontent.com/124126972/218646115-359292a3-6bc3-45ac-9dff-9741318d114c.jpg)
 
 ### མཐའ་མ་getཞེས་པ་ལ་སྣོན་ནས་ཕབ་ལེན་བྱེད་ཐུབ།
-![session name1 (5)](https://user-images.githubusercontent.com/124126972/218667552-9f5d3f86-c769-498d-891c-0be4cd613bcb.jpg)
+![get](https://user-images.githubusercontent.com/124126972/218667552-9f5d3f86-c769-498d-891c-0be4cd613bcb.jpg)
 
 
 ## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
