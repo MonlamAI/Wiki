@@ -1,12 +1,17 @@
 # བརྡ་ཆད།
 སྨོན་ལམ་མིས་བཟོ་རིག་ནུས་དང་འབྲེལ་བའི་ཐ་སྙད།
 
-> ## ཡི་གེ་གཏགས་མ། 
+> ## ཡི་གེ་གཏག་མ། 
 > Softcoded text, input
 
 འདི་ནི་ཡི་གེ་བཏགས་མའི་རིགས་ཏེ་text(.txt), word files(.doc), ebooks(.epub), PDF(.pdf), Webpage འདི་དག་ཚང་མ་ལ་ཟེར། 
 
 Some epubs and pdfs contains hardcoded images and dont qualify as softcoded files. Some pdfs contains both hardcoded images and selectable softcoded text.
+
+> ## བཤེར་འབེབས། 
+> Digitization
+
+གློག་ཀླད་ཀྱིས་ལས་སྣོན་ཐུབ་པའི་ཆེད་དུ་སྒྲ་དང་། པར་རིས། ཡི་གེ་སོགས་གྲངས་གནས་(Unicode)གཟུགས་སུ་བསྒྱུར་ཐབས།
 
 > ## བཤེར་པར། 
 > Scan, scanned image
@@ -16,7 +21,7 @@ Some epubs and pdfs contains hardcoded images and dont qualify as softcoded file
 > ## ཡིག་འཛིན། 
 > OCR, optical character recognition
 
-ཡིག་འཛིན་མཉེན་ཆས་བརྒྱུད་ནས་པར་ངོས་ནས་ལེན་པའི་ཡིག་རྐྱང་།
+ཡིག་འབྲུ་ངོས་འཛིན་མཉེན་ཆས་ཀྱིས་དཔེ་ཆའི་འདྲ་པར་ངོས་ཀྱི་ཡིག་འབྲུ་རྣམས་ངོས་འཛིན་བྱས་ཏེ་དེ་དག་ཡིག་རྐྱང་ལ་དབབ་པའི་ཐབས་ལམ་ཞིག་ཡིན།
 
 > ## ཡིག་རྐྱང་ལེན་རྒྱུ། 
 > Parse etext
