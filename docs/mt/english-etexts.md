@@ -32,8 +32,6 @@
 ![པབ་ལེན།](https://user-images.githubusercontent.com/124126972/218648875-022a4d62-6447-44c0-9ee8-e3d8856b9bdf.jp
 
 
-
-
 ## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/hwZm9l6p_-g" title="Convert epub and cleanup file" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
