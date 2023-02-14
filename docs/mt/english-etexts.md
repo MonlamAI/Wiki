@@ -83,26 +83,32 @@
 ![replace](https://user-images.githubusercontent.com/124126972/218715696-5046a360-f8c8-48fc-8994-e7b424023ec0.jpg)
 
 ## རྩོམ་སྒྲིག་ཚར་བ་དང་ཉར་ཚག་བྱེད་སྟངས།
-### ལག་པ་གཡོན་ཕྱོགས་སུ་file ཞེས་པ་ལ་སྣོན་ནས་save ཡང་ན་ save as 
+### ལག་པ་གཡོན་ཕྱོགས་སུ་file ཞེས་པ་ལ་སྣོན་ནས་save ཡང་ན་ save as སྣོན།
 ![save](https://user-images.githubusercontent.com/124126972/218719414-df820689-69d6-46fc-8c37-fd0bc6e893ed.jpg)
 
 
 
 
-
-
-<details>
-  <summary>རིས་འགྲེལ།</summary>
-1. ...
-2. ...
-</details>
-
 ## གསུམ་པ། PDF ཕབ་ལེན་དང་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/rsCvvePGHu4" title="Get pdf and convert it to txt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<details>
-  <summary>རིས་འགྲེལ།</summary>
-1. ...
-2. ...
-</details>
+## PDF པབ་ལེན་བྱེད་སྟངས།
+### དཔེ་ཆའི་མཚན་གཞུང་འོག་ཏུ་PDFཞེས་པ་དེ་སྣོན།
+### རི་མོ་ཐོག་ཏུ་སྣོན་ནས་getཞེས་པ་དེ་ལ་ཡང་སྣོན་པ་དང་ཕབ་ལེན་བྱེད་བཞིན་པའི་སྐབས་རེད།
+
+# PDFཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
+## དྲྭ་ལམ་ནས་pdf to text.com ཞེས་པ་འདི་སྣོན་ནས་ཁ་ཐུག་ནང་འཇུག་བྱེད།
+## དེ་ནས་སོ་སོར་ཕབ་ལེན་བྱེད་སའི་མཚན་པ་ནང་དུ་ནང་འཇུག་བྱེད་ནས་downloadབྱེད།
+downloadབྱེད་ཚར་བའི་མཚན་པ་ལ་བལྟས་ནས་notebookཀྱི་པར་དེ་ལ་རྩི་རྩི་གཡས་སྣོན་བྱས་ནས་open with note pad བྱེད
+དེབ་ཀྱི་རྣམ་པ་ཡག་པོ་མཐོང་ཐུབ།
+## དྲྭ་རྟགས་ཁ་བྱང་གཙང་བཟོ་བྱེད་སྟངས།
+
+དྲྭ་རྟགས་དེ་ལ་རྟགས་རྒྱག།
+ལག་པ་གཡོན་ཕྱོགས་སུ་edit སྣོན་ནས་replace བྱེད་ཆོག་པ་ཡོད་རེད།
+
+### ལག་པ་གཡོན་ཕྱོགས་སུ་file ཞེས་པ་ལ་སྣོན་ནས་save ཡང་ན་ save as སྣོན།
+
+
+
+
