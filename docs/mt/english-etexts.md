@@ -42,31 +42,29 @@
 ### ཕབ་ལེན་བྱེད་ཚར་བ་དེ་ལ་སྣོན།
 ![ཕབ་ལེན།](https://user-images.githubusercontent.com/124126972/218699253-fa4018e3-471e-464a-9867-4254ddad6983.jpg)
 
-### EPUB རྩོམ་སྒྲིག་རྒྱག་སའི་བསྙན་གཞི་the main collibrate དེ་སྒོ་ཕྱེ།
+### EPUB རྩོམ་སྒྲིག་རྒྱག་སའི་མཉེན་གཞི་the main collibrate དེ་སྒོ་ཕྱེ།
 ![main collibrate](https://user-images.githubusercontent.com/124126972/218701494-a63440e9-0bfa-430a-b081-57630513f6ac.jpg)
 
 #### འདི་ནས་formatsསྒང་ལ་སྣོན།
-![formats](https://user-images.githubusercontent.com/124126972/218702747-127c7743-1e8f-44ae-8a06-ef7e62609f7c.jpg)
+
 
 #### དེ་ནས་རྟགས་དམར་པོ་བྱེད་པ་convert book སྣོན་ནས་མཚོན་གསེར་པོ་བྱེད་པ་bulk convert ལ་སྣོན།
-![convert](https://user-images.githubusercontent.com/124126972/218706387-68e06fb6-18ac-4d20-84f6-f8be04112b46.jpg)
+
 
 #### output formats ནས་ txt ལ་སྣོན་ནས་ཡིག་རྐྱང་ལ་བསྒྱུར་འགྲོ་བ་ཞིག་རེད།
-![txt](https://user-images.githubusercontent.com/124126972/218707533-73ccf88f-c44e-4ae6-a159-7a6df691bc10.jpg)
+
 
 ## ཡིག་རྐྱང་ལ་ཇི་ལྟར་བལྟ་དགོས་པ།
 
 ### txt ཡང་ན་ click to open གང་རུང་ལ་སྣོན།
-![text open](https://user-images.githubusercontent.com/124126972/218710373-838fa849-d011-4c35-889d-80017726cbff.jpg)
 
 ## ཁྱེད་རང་གི་formatsའདི་ཁ་ཕྱེ།
 ### note pad གྱི་རི་མོ་དེ་་སྣོན་ནས་open with note pad ཞེས་པ་དེ་ཁ་ཕྱེ།
-![open note pad](https://user-images.githubusercontent.com/124126972/218713238-7d7cc690-f0e4-4a03-8340-77f61dd7c86d.jpg)
 
 #### དེབ་འདི་ཁ་ཕྱེ་བ་དང་འདི་ནང་དུ་footnoteཞེས་ཤོག་ངོས་རེ་རེ་གོང་ལ་མཚན་གཞུང་ཡང་ན་རི་མོ་བཟོ་ལྟ་དགོས་མི་དགོས་མང་པོ་ཞིག་ཡོད་རེད།
-![foot note](https://user-images.githubusercontent.com/124126972/218714229-a1fed890-1d26-42c6-b5b2-09212ee0142e.jpg)
 
-## རྩོམ་སྒྲིག་བྱེད་སའི་བསྙན་གཞི།
+
+## རྩོམ་སྒྲིག་བྱེད་སའི་མཉེན་གཞི་བེད་སྤྱོད།
 སྒེའུ་ཁུང་རྟགས་ཅན་ཡིན་ན་note pad
 
 ཀུ་ཤུ་རྟགས་ཅན་ཡིན་ན་text editor
@@ -76,15 +74,13 @@
 ### དཔེར་ན་། གལ་སྲིད་F.W.WOODWORTHཡི་གེ་འདི་ཡི་གེ་གཞན་ལ་བསྒྱུར་དགོས་ན་།
 
 ### ཡི་གེ་དེ་ལ་རྟགས་ཞིག་རྒྱག།
-![F.W.WOODWORTH](https://user-images.githubusercontent.com/124126972/218715063-65c32f97-4026-4040-a913-fc3a264582fc.jpg)
+
 
 ### དེ་ནས་editལ་སྣོན་ནས་replace ནང་དུ་འགྱུར་བ་བཏང་ཆོག།
 ཡི་གེ་ཆ་ཚང་འགྱུར་བ་གཏོང་དགོས་ཚེས་all replace ལ་སྣོན།
-![replace](https://user-images.githubusercontent.com/124126972/218715696-5046a360-f8c8-48fc-8994-e7b424023ec0.jpg)
 
 ## རྩོམ་སྒྲིག་ཚར་བ་དང་ཉར་ཚག་བྱེད་སྟངས།
 ### ལག་པ་གཡོན་ཕྱོགས་སུ་file ཞེས་པ་ལ་སྣོན་ནས་save ཡང་ན་ save as སྣོན།
-![save](https://user-images.githubusercontent.com/124126972/218719414-df820689-69d6-46fc-8c37-fd0bc6e893ed.jpg)
 
 
 
@@ -93,21 +89,38 @@
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/rsCvvePGHu4" title="Get pdf and convert it to txt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## PDF པབ་ལེན་བྱེད་སྟངས།
+## PDF ཕབ་ལེན་བྱེད་སྟངས།
+
 ### དཔེ་ཆའི་མཚན་གཞུང་འོག་ཏུ་PDFཞེས་པ་དེ་སྣོན།
+![session name1 (17)](https://user-images.githubusercontent.com/124126972/218931537-3116b74e-1918-4397-9109-13be23c6c003.jpg)
+
 ### རི་མོ་ཐོག་ཏུ་སྣོན་ནས་getཞེས་པ་དེ་ལ་ཡང་སྣོན་པ་དང་ཕབ་ལེན་བྱེད་བཞིན་པའི་སྐབས་རེད།
+![session name1 (18)](https://user-images.githubusercontent.com/124126972/218932381-cced5d3e-bc47-4cad-9f3a-30aeed359d87.jpg)
+
 
 # PDFཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 ## དྲྭ་ལམ་ནས་pdf to text.com ཞེས་པ་འདི་སྣོན་ནས་ཁ་ཐུག་ནང་འཇུག་བྱེད།
-## དེ་ནས་སོ་སོར་ཕབ་ལེན་བྱེད་སའི་མཚན་པ་ནང་དུ་ནང་འཇུག་བྱེད་ནས་downloadབྱེད།
-downloadབྱེད་ཚར་བའི་མཚན་པ་ལ་བལྟས་ནས་notebookཀྱི་པར་དེ་ལ་རྩི་རྩི་གཡས་སྣོན་བྱས་ནས་open with note pad བྱེད
-དེབ་ཀྱི་རྣམ་པ་ཡག་པོ་མཐོང་ཐུབ།
+![session name1 (19)](https://user-images.githubusercontent.com/124126972/218933245-28ac5813-6faa-4b2c-b651-71f217710687.jpg)
+
+
+## དེ་ནས་སོ་སོར་ཕབ་ལེན་བྱེད་སའི་མཚན་པ་ནང་དུ་ནང་འཇུག་བྱེད།
+downloadབྱེད་ཚར་བའི་མཚན་པ་ལ་བལྟས་ནས་notebookཀྱི་པར་དེ་ལ་རྩི་རྩི་གཡས་སྣོན་བྱས་ནས་open with note pad བྱེད།
+![session name1 (20)](https://user-images.githubusercontent.com/124126972/218934747-a52ecfec-e397-4197-a769-3afd746cbb9a.jpg)
+
+### དེབ་ཀྱི་རྣམ་པ་ཡག་པོ་མཐོང་ཐུབ།
+![session name1 (21)](https://user-images.githubusercontent.com/124126972/218935337-8bcb66cd-dac0-4586-810a-abfae4cb62a3.jpg)
+
+
 ## དྲྭ་རྟགས་ཁ་བྱང་གཙང་བཟོ་བྱེད་སྟངས།
+### དྲྭ་རྟགས་དེ་ལ་རྟགས་རྒྱག།
+![session name1 (22)](https://user-images.githubusercontent.com/124126972/218935816-e77e0054-8e66-49c2-9907-367eb7de1d9a.jpg)
 
-དྲྭ་རྟགས་དེ་ལ་རྟགས་རྒྱག།
 ལག་པ་གཡོན་ཕྱོགས་སུ་edit སྣོན་ནས་replace བྱེད་ཆོག་པ་ཡོད་རེད།
+![session name1 (23)](https://user-images.githubusercontent.com/124126972/218936621-890e6b7c-153e-47ad-9be8-90f4d22967e5.jpg)
 
+## ཉར་ཚགས་བྱེད་སྟངས།
 ### ལག་པ་གཡོན་ཕྱོགས་སུ་file ཞེས་པ་ལ་སྣོན་ནས་save ཡང་ན་ save as སྣོན།
+![session name1 (24)](https://user-images.githubusercontent.com/124126972/218937479-b7bee7d1-49c3-4405-8e18-bedcb0b3f396.jpg)
 
 
 
