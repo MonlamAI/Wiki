@@ -5,19 +5,40 @@
 <iframe width="911" height="513" src="https://www.youtube.com/embed/qv2UBxyjrzg" title="Get title and download from libgen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-
 <details>
-  <summary>Click me</summary>
+  <summary>རྒྱས་པ་སྟོན།</summary>
   
-ཐབས་ཤེས་ལམ་སྟོན་འདིར་བཞག་དགོས།
-
-  </details>
+  ## མཚན་བྱང་འཚོལ་ཞིབ་བྱ་རྒྱུ་ལ་ཐབས་ལམ་གཉིས་ཡོད།
   
-  hgghhjfjhhjkjl
-  djkldhkhjks
-  kjsj
+  **  ཐབས་ལམ་དང་པོ། མཚན་བྱང་སྟེང་དུ་ཡོད་པའི་དྲྭ་རྟགས་ལ་སྣོན་རྒྱུ།**
+  
+ ![session name1 (8)](https://user-images.githubusercontent.com/124126972/219027311-bfb9379d-bb32-41c8-b943-84a994afc529.jpg)
 
-![firstpage](https://user-images.githubusercontent.com/124126972/219014333-c9f1d525-7a04-41f0-abcc-d551a1ec6915.png)
+  
+  
+
+
+  
+  ** ཐབས་ལམ་གཉིས་པ། google ནང་དུ་ labgen ཞེས་པ་དབྱིན་མཛོད་ཅིག་ཡོད་པ་དེ་ལ་སྣོན།
+  
+  !
+
+  1 འཚོལ་ཞེས་པའི་ནང་དུ་མཚན་བྱང་གི་མིང་བྲིས།
+  
+  
+  
+
+  
+
+  
+
+  
+  
+
+
+  
+
+
 
 
 
