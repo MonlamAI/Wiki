@@ -6,6 +6,21 @@
 
 
 
+<details>
+  <summary>Click me</summary>
+  
+ཐབས་ཤེས་ལམ་སྟོན་འདིར་བཞག་དགོས།
+
+  </details>
+  
+  hgghhjfjhhjkjl
+  djkldhkhjks
+  kjsj
+
+![firstpage](https://user-images.githubusercontent.com/124126972/219014333-c9f1d525-7a04-41f0-abcc-d551a1ec6915.png)
+
+
+
 ## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/hwZm9l6p_-g" title="Convert epub and cleanup file" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
