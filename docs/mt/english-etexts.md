@@ -110,50 +110,40 @@
 
   ## མཐའ་མ་ཉར་ཚག་་saveབྱེད་སྟངས་ནི།
 
-   fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད།
-
-
-   <details>
-  <details>
-  <summary>རྒྱས་པ་སྟོན།</summary>
+   fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད
 
 
 
-     ## གསུམ་པ། PDF ཕབ་ལེན་དང་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
-
-<iframe width="911" height="513" src="https://www.youtube.com/embed/rsCvvePGHu4" title="Get pdf and convert it to txt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+     
 
 
 
      ## PDF ཕབ་ལེན་བྱེད་སྟངས།
 
 ## དཔེ་ཆའི་མཚན་གཞུང་འོག་ཏུ་PDFཞེས་པ་དེ་སྣོན།
-![PDF](https://user-images.githubusercontent.com/124126972/218931537-3116b74e-1918-4397-9109-13be23c6c003.jpg)
+
 
 ## རི་མོ་ཐོག་ཏུ་སྣོན་ནས་getཞེས་པ་དེ་ལ་ཡང་སྣོན་པ་དང་ཕབ་ལེན་བྱེད་བཞིན་པའི་སྐབས་རེད།
-![get](https://user-images.githubusercontent.com/124126972/218932381-cced5d3e-bc47-4cad-9f3a-30aeed359d87.jpg)
+
   ## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 
-<iframe width="911" height="513" src="https://www.youtube.com/embed/hwZm9l6p_-g" title="Convert epub and cleanup file" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
 # PDFཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 ## དྲྭ་ལམ་ནས་pdf to text.com ཞེས་པ་འདི་སྣོན་ནས་ཁ་ཐུག་ནང་འཇུག་བྱེད།
-![pdf to text](https://user-images.githubusercontent.com/124126972/218933245-28ac5813-6faa-4b2c-b651-71f217710687.jpg)
 
 ## དེ་ནས་སོ་སོར་ཕབ་ལེན་བྱེད་སའི་མཚན་པ་ནང་དུ་ནང་འཇུག་བྱེད།
 downloadབྱེད་ཚར་བའི་མཚན་པ་ལ་བལྟས་ནས་notebookཀྱི་པར་དེ་ལ་རྩི་རྩི་གཡས་སྣོན་བྱས་ནས་open with note pad བྱེད།
 
      ### དེབ་ཀྱི་རྣམ་པ་ཡག་པོ་མཐོང་ཐུབ།
-![note book](https://user-images.githubusercontent.com/124126972/218935337-8bcb66cd-dac0-4586-810a-abfae4cb62a3.jpg)
+
 
 ## དྲྭ་རྟགས་ཁ་བྱང་གཙང་བཟོ་བྱེད་སྟངས།
-### དྲྭ་རྟགས་དེ་ལ་རྟགས་རྒྱག།
-![link](https://user-images.githubusercontent.com/124126972/218935816-e77e0054-8e66-49c2-9907-367eb7de1d9a.jpg)
+
 
 ### ལག་པ་གཡོན་ཕྱོགས་སུ་edit སྣོན་ནས་replace བྱེད་ཆོག་པ་ཡོད་རེད།
-![replace](https://user-images.githubusercontent.com/124126972/218936621-890e6b7c-153e-47ad-9be8-90f4d22967e5.jpg)
+
 ## གསུམ་པ། PDF ཕབ་ལེན་དང་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
   
     
