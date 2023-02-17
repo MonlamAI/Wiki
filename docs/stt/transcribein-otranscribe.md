@@ -2,6 +2,9 @@
 # OTranscribe བཀོལ་སྤྱོད་བྱེད་ཚུལ། [ ᛃ ](en/stt/transcribein-otranscribe.md)
 # 1) ཐོག་མར་ Otranscribe སྒོ་འབྱེད་ཚུལ།
 
+<details>
+  <summary>རྒྱས་པ་སྟོན།</summary>
+
 **1. Google search ནང་ལ་Otranscribe ཞེས་པ་བྲིས་ཏེ་ཚོལ།**
 
 ![image](https://user-images.githubusercontent.com/109784146/210407919-9e9db02c-2f7d-4dbd-95fd-c0f29990a18b.png)
@@ -23,9 +26,6 @@
 Watch the video to learn how to write the subtitle for video/audio
 
 <iframe width="802" height="451" src="https://www.youtube.com/embed/XthqK15Q9yE" title="སྒྲ་དང་ཡི་གེ་མཐུད་སྟངས།" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<details>
-  <summary>རྒྱས་པ་སྟོན།</summary>
 
 ### Otranscribe ནང་ལས་ཀ་ལག་ལེན་བསྟར་ཚུལ།
 
