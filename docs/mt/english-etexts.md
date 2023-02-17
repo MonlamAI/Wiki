@@ -128,12 +128,11 @@
     
  ![image](https://user-images.githubusercontent.com/124126972/219557802-c547a2f5-6b4e-4614-b97f-87ce4aca7150.png)
     
+ <details>
+ <summary>རྒྱས་པ་སྟོན།</summary>
     
-     <details>
-  <summary>རྒྱས་པ་སྟོན།</summary>
-       
-       
-   ## གསུམ་པ། PDF ཕབ་ལེན་དང་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
+  
+  ## གསུམ་པ། PDF ཕབ་ལེན་དང་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/rsCvvePGHu4" title="Get pdf and convert it to txt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
