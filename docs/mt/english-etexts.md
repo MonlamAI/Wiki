@@ -14,23 +14,22 @@
 ## ཤོག་མཐའི་ཁ་བྱང་།
 ![image](https://user-images.githubusercontent.com/17675331/219356270-e96d920e-689d-48e5-84d9-004423498431.png)
 
-
+<details>
+  <summary>རྒྱས་པ་སྟོན།</summary>
 
 ## དང་པོ། མཚན་བྱང་འཚོལ་ཞིབ་དང་འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/qv2UBxyjrzg" title="Get title and download from libgen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-<details>
-  <summary>རྒྱས་པ་སྟོན།</summary>
-  
+
  ## མཚན་བྱང་འཚོལ་ཞིབ་བྱ་རྒྱུ་ལ་ཐབས་ལམ་གཉིས་ཡོད།
   
   ཐབས་ལམ་དང་པོ། མཚན་བྱང་སྟེང་དུ་ཡོད་པའི་དྲྭ་རྟགས་ལ་སྣུན།
   
   ![image](https://user-images.githubusercontent.com/124126972/219266745-4354b9fd-a3e1-4e2b-9276-8c20f3ab4833.png)
 
-  **ཐབས་ལམ་གཉིས་པ། 1. goole search ནང་དུ་དཔེ་མཛོད་ibgen ཞེས་པ་དེ་འཚོལ།**
+  ཐབས་ལམ་གཉིས་པ། 1. goole search ནང་དུ་དཔེ་མཛོད་ibgen ཞེས་པ་དེ་འཚོལ།
   
   ![image](https://user-images.githubusercontent.com/124126972/219565257-28592766-0db8-429c-bade-d33bb32fce90.png)
   
