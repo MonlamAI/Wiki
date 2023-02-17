@@ -16,6 +16,10 @@
 ![image](https://user-images.githubusercontent.com/17675331/219356270-e96d920e-689d-48e5-84d9-004423498431.png)
 
 
+<details>
+  <summary>རྒྱས་པ་སྟོན།</summary>
+
+
 ## དང་པོ། མཚན་བྱང་འཚོལ་ཞིབ་དང་འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/qv2UBxyjrzg" title="Get title and download from libgen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -92,8 +96,8 @@ txt ཡང་ན་ click to open ལ་སྣུན།
     
 ![image](https://user-images.githubusercontent.com/124126972/219552871-1dba49ec-d2d6-45ab-b421-657efb86c02b.png)
 
-### རྩོམ་བསྒྱུར་བྱེད་སའི་མཉན་ཆས།
-
+### ཡིག་ཆ་ཕན་ཚུན་བསྒྱུར་སའི་མཉེན་ཆས།
+  
 སྒེའུ་ཁུང་རྟགས་ཅན།-notebook
 
 ཀུ་ཤུ་རྟགས་ཅན།-text editor
