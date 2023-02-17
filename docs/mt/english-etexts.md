@@ -32,13 +32,13 @@
 
   **ཐབས་ལམ་གཉིས་པ། 1. goole search ནང་དུ་དཔེ་མཛོད་ibgen ཞེས་པ་དེ་འཚོལ།**
   
-  ![image](https://user-images.githubusercontent.com/124126972/219268158-2e358d87-73e9-4c34-b56d-a5139295055e.png)
+  ![session name1 (15)](https://user-images.githubusercontent.com/124126972/219565257-28592766-0db8-429c-bade-d33bb32fce90.png)
   
   2. search ཟེར་བའི་སྟོང་ཆ་དེ་ནང་དུ་རྩོམ་པ་པོ་མཚན་བྱང་འཚོལ་ཞིབ་བྱེད།
   
-  ![image](https://user-images.githubusercontent.com/124126972/219273285-10008420-b580-45a4-9b50-65d13155e683.png)
+ ![image](https://user-images.githubusercontent.com/124126972/219563864-942ea3c3-9092-45dc-8a02-b7bc02cb03be.png)
 
-  ## འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
+ ## འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
   
  1. རྩོམ་པ་པོ་མཚན་གྱི་ཐོག་ཏུ་སྣུན།
   
@@ -48,13 +48,15 @@
   
   ![image](https://user-images.githubusercontent.com/124126972/219274754-859fd141-0d52-4f92-8cf3-ee32c1dd735f.png)
 
-   3. དེབ་འདིའི་པར་ཀྱི་ཐོག་ཏུ་སྣུན།
+ 3. དེབ་འདིའི་པར་ཀྱི་ཐོག་ཏུ་སྣུན།
   
-  ![image](https://user-images.githubusercontent.com/124126972/219275341-d8e3c103-fbfe-40fc-a65a-4cc47155d4b7.png)
+  ![session name1 (14)](https://user-images.githubusercontent.com/124126972/219564529-467e1185-cbe1-4cb7-a51a-b3e7f7d26865.png)
 
-  4. མཐའ་མ་getཞེས་པ་ལ་སྣོན་ནས་འཕྲུལ་དེབ་ཕབ་ལེན་བྱེད་ཐུབ།
+ 4. མཐའ་མ་getཞེས་པ་ལ་སྣོན་ནས་འཕྲུལ་དེབ་ཕབ་ལེན་བྱེད་ཐུབ།
   
-  ![image](https://user-images.githubusercontent.com/124126972/219275800-3fa9b6c3-8a46-4035-83ad-9b6c8c55408f.png)
+  ![image)](https://user-images.githubusercontent.com/124126972/219563149-fd32e444-96bb-48f6-8040-066c9190a1bc.png)
+
+  
   
   <details>
   <summary>རྒྱས་པ་སྟོན།</summary>
