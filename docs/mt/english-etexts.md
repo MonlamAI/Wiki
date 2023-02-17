@@ -24,17 +24,17 @@
   <summary>རྒྱས་པ་སྟོན།</summary>
 
 
- ### མཚན་བྱང་འཚོལ་ཞིབ་བྱ་རྒྱུ་ལ་ཐབས་ལམ་གཉིས་ཡོད།
+### མཚན་བྱང་འཚོལ་ཞིབ་བྱ་རྒྱུ་ལ་ཐབས་ལམ་གཉིས་ཡོད།
   
-  ཐབས་ལམ་དང་པོ། མཚན་བྱང་སྟེང་དུ་ཡོད་པའི་དྲྭ་རྟགས་ལ་སྣུན།
+ཐབས་ལམ་དང་པོ། མཚན་བྱང་སྟེང་དུ་ཡོད་པའི་དྲྭ་རྟགས་ལ་སྣུན།
   
 ![image](https://user-images.githubusercontent.com/124126972/219266745-4354b9fd-a3e1-4e2b-9276-8c20f3ab4833.png)
 
-  ཐབས་ལམ་གཉིས་པ། 1. goole search ནང་དུ་དཔེ་མཛོད་ibgen ཞེས་པ་དེ་འཚོལ།
+ཐབས་ལམ་གཉིས་པ། 1. goole search ནང་དུ་དཔེ་མཛོད་ibgen ཞེས་པ་དེ་འཚོལ།
   
 ![image](https://user-images.githubusercontent.com/124126972/219565257-28592766-0db8-429c-bade-d33bb32fce90.png)
   
-2. search ཟེར་བའི་སྟོང་ཆ་དེ་ནང་དུ་རྩོམ་པ་པོ་མཚན་བྱང་འཚོལ་ཞིབ་བྱེད།
+1. search ཟེར་བའི་སྟོང་ཆ་དེ་ནང་དུ་རྩོམ་པ་པོ་མཚན་བྱང་འཚོལ་ཞིབ་བྱེད།
   
 ![image](https://user-images.githubusercontent.com/124126972/219563864-942ea3c3-9092-45dc-8a02-b7bc02cb03be.png)
 
@@ -57,7 +57,7 @@
 ![image)](https://user-images.githubusercontent.com/124126972/219563149-fd32e444-96bb-48f6-8040-066c9190a1bc.png)
 
   
-  </details>
+</details>
  
 
 ## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
@@ -129,15 +129,14 @@ fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད།
     
 ![image](https://user-images.githubusercontent.com/124126972/219557802-c547a2f5-6b4e-4614-b97f-87ce4aca7150.png)
     
-  </details>
-    
+</details>  
   
 ## གསུམ་པ། PDF ཕབ་ལེན་དང་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/rsCvvePGHu4" title="Get pdf and convert it to txt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <details>
- <summary>རྒྱས་པ་སྟོན།</summary>
+  <summary>རྒྱས་པ་སྟོན།</summary>
  
 ### PDF ཕབ་ལེན་བྱེད་སྟངས།
        
@@ -192,8 +191,4 @@ fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད།
 
 ![session name1 (17)](https://user-images.githubusercontent.com/124126972/219596151-c2fcfc35-4646-42a0-96a7-fd4f571fd515.png)
 
-   
-
-
-
-
+</details>
