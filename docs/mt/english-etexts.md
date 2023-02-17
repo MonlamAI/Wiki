@@ -11,13 +11,12 @@
 
 ### ཤོག་གྲངས།
 
+<details>
+  <summary>རྒྱས་པ་སྟོན།</summary>
+
 ### ཤོག་མཐའི་ཁ་བྱང་།
 
 ![image](https://user-images.githubusercontent.com/17675331/219356270-e96d920e-689d-48e5-84d9-004423498431.png)
-
-
-<details>
-  <summary>རྒྱས་པ་སྟོན།</summary>
 
 
 ## དང་པོ། མཚན་བྱང་འཚོལ་ཞིབ་དང་འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
