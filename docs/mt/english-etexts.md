@@ -188,19 +188,7 @@
 
   ![session name1 (17)](https://user-images.githubusercontent.com/124126972/219596151-c2fcfc35-4646-42a0-96a7-fd4f571fd515.png)
 
-    
-    
-    
-    
-    
-    
-    
-    
-  
-
-
-
-
+   
 
 
 
