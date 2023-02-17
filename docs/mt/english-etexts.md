@@ -16,17 +16,14 @@
 
 <details>
   <summary>རྒྱས་པ་སྟོན།</summary>
-
-## དང་པོ། མཚན་བྱང་འཚོལ་ཞིབ་དང་འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
+  
+  ## དང་པོ། མཚན་བྱང་འཚོལ་ཞིབ་དང་འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/qv2UBxyjrzg" title="Get title and download from libgen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
  ## མཚན་བྱང་འཚོལ་ཞིབ་བྱ་རྒྱུ་ལ་ཐབས་ལམ་གཉིས་ཡོད།
   
-  
-ཐབས་ལམ་དང་པོ། མཚན་བྱང་སྟེང་དུ་ཡོད་པའི་དྲྭ་རྟགས་ལ་སྣུན།
+  ཐབས་ལམ་དང་པོ། མཚན་བྱང་སྟེང་དུ་ཡོད་པའི་དྲྭ་རྟགས་ལ་སྣུན།
   
  ![image](https://user-images.githubusercontent.com/124126972/219266745-4354b9fd-a3e1-4e2b-9276-8c20f3ab4833.png)
 
@@ -44,7 +41,7 @@
   
   ![image](https://user-images.githubusercontent.com/124126972/219273906-6236c122-3305-4e9f-932f-249f8c78cb12.png)
 
- 2. དepub དང་ pdf གང་རུང་སྣུན་ཀྱང་འགྲིག། (epub ལ་སྣུན།)
+ 2. epub དང་ pdf གང་རུང་སྣུན་ཀྱང་འགྲིག། (epub ལ་སྣུན།)
   
   ![image](https://user-images.githubusercontent.com/124126972/219274754-859fd141-0d52-4f92-8cf3-ee32c1dd735f.png)
 
@@ -66,7 +63,7 @@
 <iframe width="911" height="513" src="https://www.youtube.com/embed/hwZm9l6p_-g" title="Convert epub and cleanup file" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-    ## འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
+## འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 
    1.ཐོག་མར་calibreསྒོ་ཕྱེ།
     
@@ -139,17 +136,17 @@
  
 ## PDF ཕབ་ལེན་བྱེད་སྟངས།
        
-  1.དཔེ་ཆའི་མཚན་གཞུང་འོག་ཏུ་PDFཞེས་པ་དེ་སྣོན།
+  1. དཔེ་ཆའི་མཚན་གཞུང་འོག་ཏུ་PDFཞེས་པ་དེ་སྣོན།
    
    ![image](https://user-images.githubusercontent.com/124126972/219572712-b25630e3-e75a-440b-9013-cff3ffb1a08e.png)
 
-  2.རི་མོ་ཐོག་ཏུ་སྣུན།
+  2. རི་མོ་ཐོག་ཏུ་སྣུན།
    
-   ![session name1 (17)](https://user-images.githubusercontent.com/124126972/219573411-5daa38bb-9df0-416d-9a79-f6e68815a0c3.png)
+   ![image](https://user-images.githubusercontent.com/124126972/219573411-5daa38bb-9df0-416d-9a79-f6e68815a0c3.png)
 
-   3.getཞེས་པ་དེ་ལ་ཡང་སྣོན་པ་དང་ཕབ་ལེན་བྱེད་བཞིན་པའི་སྐབས་རེད།
+   3. getཞེས་པ་དེ་ལ་ཡང་སྣོན་པ་དང་ཕབ་ལེན་བྱེད་བཞིན་པའི་སྐབས་རེད།
 
-![session name1 (18)](https://user-images.githubusercontent.com/124126972/219574097-c8d04f9d-f02c-4ccd-a1c5-d4b09e291697.png)
+![image)](https://user-images.githubusercontent.com/124126972/219574097-c8d04f9d-f02c-4ccd-a1c5-d4b09e291697.png)
 
 ## PDFཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
        
@@ -166,15 +163,15 @@
    ![image](https://user-images.githubusercontent.com/124126972/219580520-d890817d-0adc-40f4-b28e-9706abe9f45d.png)
 
 
-##རྩོམ་བསྒྱུར་གཙང་བཟོ་བྱེད་སྟངས།
+## རྩོམ་བསྒྱུར་གཙང་བཟོ་བྱེད་སྟངས།
    
    1.ཡི་གེ་མི་དགོས་པ་ཞིག་ལ་སྟགས་རྒྱག།
    
-   ![session name1 (15)](https://user-images.githubusercontent.com/124126972/219582723-f4746418-64ff-467b-a7ca-31fd5e18afa0.png)
+   ![image](https://user-images.githubusercontent.com/124126972/219582723-f4746418-64ff-467b-a7ca-31fd5e18afa0.png)
 
    2. ལག་པ་གཡོན་ཕྱོགས་སུ་edit སྣུན་ནས་replace བྱོས།
    
-   ![session name1 (16)](https://user-images.githubusercontent.com/124126972/219585363-c6398e26-029e-4337-925d-65b22c6f1f01.png)
+   ![image](https://user-images.githubusercontent.com/124126972/219585363-c6398e26-029e-4337-925d-65b22c6f1f01.png)
    
    
    3. ཡི་གེ་བསྒྱུར་དགོས་པ་འདི་replaceནང་དུ་བྲིས།
@@ -189,7 +186,8 @@
     
 ## fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད།
 
-  
+  ![session name1 (17)](https://user-images.githubusercontent.com/124126972/219596151-c2fcfc35-4646-42a0-96a7-fd4f571fd515.png)
+
     
     
     
