@@ -26,13 +26,13 @@
   
  ## མཚན་བྱང་འཚོལ་ཞིབ་བྱ་རྒྱུ་ལ་ཐབས་ལམ་གཉིས་ཡོད།
   
-  **ཐབས་ལམ་དང་པོ། མཚན་བྱང་སྟེང་དུ་ཡོད་པའི་དྲྭ་རྟགས་ལ་སྣུན།**
+  ཐབས་ལམ་དང་པོ། མཚན་བྱང་སྟེང་དུ་ཡོད་པའི་དྲྭ་རྟགས་ལ་སྣུན།
   
   ![image](https://user-images.githubusercontent.com/124126972/219266745-4354b9fd-a3e1-4e2b-9276-8c20f3ab4833.png)
 
   **ཐབས་ལམ་གཉིས་པ། 1. goole search ནང་དུ་དཔེ་མཛོད་ibgen ཞེས་པ་དེ་འཚོལ།**
   
-  ![session name1 (15)](https://user-images.githubusercontent.com/124126972/219565257-28592766-0db8-429c-bade-d33bb32fce90.png)
+  ![image](https://user-images.githubusercontent.com/124126972/219565257-28592766-0db8-429c-bade-d33bb32fce90.png)
   
   2. search ཟེར་བའི་སྟོང་ཆ་དེ་ནང་དུ་རྩོམ་པ་པོ་མཚན་བྱང་འཚོལ་ཞིབ་བྱེད།
   
@@ -44,33 +44,29 @@
   
   ![image](https://user-images.githubusercontent.com/124126972/219273906-6236c122-3305-4e9f-932f-249f8c78cb12.png)
 
- 2. epub དང་ pdf གང་རུང་སྣུན་ཀྱང་འགྲིག། (epub ལ་སྣུན།)
+ 2. དepub དང་ pdf གང་རུང་སྣུན་ཀྱང་འགྲིག། (epub ལ་སྣུན།)
   
   ![image](https://user-images.githubusercontent.com/124126972/219274754-859fd141-0d52-4f92-8cf3-ee32c1dd735f.png)
 
  3. དེབ་འདིའི་པར་ཀྱི་ཐོག་ཏུ་སྣུན།
   
-  ![session name1 (14)](https://user-images.githubusercontent.com/124126972/219564529-467e1185-cbe1-4cb7-a51a-b3e7f7d26865.png)
+  ![image](https://user-images.githubusercontent.com/124126972/219564529-467e1185-cbe1-4cb7-a51a-b3e7f7d26865.png)
 
  4. མཐའ་མ་getཞེས་པ་ལ་སྣོན་ནས་འཕྲུལ་དེབ་ཕབ་ལེན་བྱེད་ཐུབ།
   
   ![image)](https://user-images.githubusercontent.com/124126972/219563149-fd32e444-96bb-48f6-8040-066c9190a1bc.png)
 
   
-  
   <details>
   <summary>རྒྱས་པ་སྟོན།</summary>
  
 
-
-
- ## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
+## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/hwZm9l6p_-g" title="Convert epub and cleanup file" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-
- ## འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
+    ## འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 
    1.ཐོག་མར་calibreསྒོ་ཕྱེ།
     
@@ -131,39 +127,36 @@
  fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད།
     
  ![image](https://user-images.githubusercontent.com/124126972/219557802-c547a2f5-6b4e-4614-b97f-87ce4aca7150.png)
+    
+    
+     <details>
+  <summary>རྒྱས་པ་སྟོན།</summary>
+       
+       
+   ## གསུམ་པ། PDF ཕབ་ལེན་དང་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
+
+<iframe width="911" height="513" src="https://www.youtube.com/embed/rsCvvePGHu4" title="Get pdf and convert it to txt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ 
+## PDF ཕབ་ལེན་བྱེད་སྟངས།
+       
+  1.དཔེ་ཆའི་མཚན་གཞུང་འོག་ཏུ་PDFཞེས་པ་དེ་སྣོན།
+
+  2.རི་མོ་ཐོག་ཏུ་སྣོན་ནས་getཞེས་པ་དེ་ལ་ཡང་སྣོན་པ་དང་ཕབ་ལེན་བྱེད་བཞིན་པའི་སྐབས་རེད།
 
 
-     
+## PDFཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
+       
+1.དྲྭ་ལམ་ནས་pdf to text.com ཞེས་པ་འདི་སྣོན་ནས་ཁ་ཐུག་ནང་འཇུག་བྱེད།
 
+2.དེ་ནས་སོ་སོར་ཕབ་ལེན་བྱེད་སའི་མཚན་པབལྟས་ནས་notebookཀྱི་པར་དེ་ལ་རྩི་རྩི་གཡས་སྣུན་བྱས་ནས་open with note pad བྱེད།
 
+## དྲྭཐག་ཁ་བྱང་གཙང་བཟོ་བྱེད་སྟངས།
 
-     ## PDF ཕབ་ལེན་བྱེད་སྟངས།
+.ལག་པ་གཡོན་ཕྱོགས་སུ་edit སྣུན་ནས་replace བྱོས།
+       
+## fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད།
 
-## དཔེ་ཆའི་མཚན་གཞུང་འོག་ཏུ་PDFཞེས་པ་དེ་སྣོན།
-
-
-## རི་མོ་ཐོག་ཏུ་སྣོན་ནས་getཞེས་པ་དེ་ལ་ཡང་སྣོན་པ་དང་ཕབ་ལེན་བྱེད་བཞིན་པའི་སྐབས་རེད།
-
-  ## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
-
-
-
-
-# PDFཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
-## དྲྭ་ལམ་ནས་pdf to text.com ཞེས་པ་འདི་སྣོན་ནས་ཁ་ཐུག་ནང་འཇུག་བྱེད།
-
-## དེ་ནས་སོ་སོར་ཕབ་ལེན་བྱེད་སའི་མཚན་པ་ནང་དུ་ནང་འཇུག་བྱེད།
-downloadབྱེད་ཚར་བའི་མཚན་པ་ལ་བལྟས་ནས་notebookཀྱི་པར་དེ་ལ་རྩི་རྩི་གཡས་སྣོན་བྱས་ནས་open with note pad བྱེད།
-
-     ### དེབ་ཀྱི་རྣམ་པ་ཡག་པོ་མཐོང་ཐུབ།
-
-
-## དྲྭ་རྟགས་ཁ་བྱང་གཙང་བཟོ་བྱེད་སྟངས།
-
-
-### ལག་པ་གཡོན་ཕྱོགས་སུ་edit སྣོན་ནས་replace བྱེད་ཆོག་པ་ཡོད་རེད།
-
-## གསུམ་པ། PDF ཕབ་ལེན་དང་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
   
     
     
@@ -173,17 +166,8 @@ downloadབྱེད་ཚར་བའི་མཚན་པ་ལ་བལྟས
     
     
     
-    ## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
+  
 
-<iframe width="911" height="513" src="https://www.youtube.com/embed/hwZm9l6p_-g" title="Convert epub and cleanup file" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    
-    
-
-
-
-## གསུམ་པ། PDF ཕབ་ལེན་དང་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
-
-<iframe width="911" height="513" src="https://www.youtube.com/embed/rsCvvePGHu4" title="Get pdf and convert it to txt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
