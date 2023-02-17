@@ -184,7 +184,7 @@
  ![image](https://user-images.githubusercontent.com/124126972/219556721-7ae8543c-f3d1-48d9-92f6-1466b4cc530c.png)
 
     
-## fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད།
+## fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད་སྟངས།
 
   ![session name1 (17)](https://user-images.githubusercontent.com/124126972/219596151-c2fcfc35-4646-42a0-96a7-fd4f571fd515.png)
 
