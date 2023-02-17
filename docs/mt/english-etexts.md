@@ -27,44 +27,43 @@
  
   ## མཚན་བྱང་འཚོལ་ཞིབ་བྱ་རྒྱུ་ལ་ཐབས་ལམ་གཉིས་ཡོད།
   
-       **ཐབས་ལམ་དང་པོ། མཚན་བྱང་སྟེང་དུ་ཡོད་པའི་དྲྭ་རྟགས་ལ་སྣོན་རྒྱུ།**
+  **ཐབས་ལམ་དང་པོ། མཚན་བྱང་སྟེང་དུ་ཡོད་པའི་དྲྭ་རྟགས་ལ་སྣུན།**
   
-![session name1 (1)](https://user-images.githubusercontent.com/124126972/219266745-4354b9fd-a3e1-4e2b-9276-8c20f3ab4833.png)
+  ![image](https://user-images.githubusercontent.com/124126972/219266745-4354b9fd-a3e1-4e2b-9276-8c20f3ab4833.png)
 
-  **ཐབས་ལམ་གཉིས་པ། 1. goole search ནང་དུ་དབྱིན་མཛད་labgen ཞེས་པ་དེ་འཚོལ།**
- 
-![session name1 (4)](https://user-images.githubusercontent.com/124126972/219268158-2e358d87-73e9-4c34-b56d-a5139295055e.png)
+  **ཐབས་ལམ་གཉིས་པ། 1. goole search ནང་དུ་དཔེ་མཛོད་ibgen ཞེས་པ་དེ་འཚོལ།**
+  
+  ![image](https://user-images.githubusercontent.com/124126972/219268158-2e358d87-73e9-4c34-b56d-a5139295055e.png)
   
   2. search ཟེར་བའི་སྟོང་ཆ་དེ་ནང་དུ་རྩོམ་པ་པོ་མཚན་བྱང་འཚོལ་ཞིབ་བྱེད།
   
-  ![session name1 (7)](https://user-images.githubusercontent.com/124126972/219273285-10008420-b580-45a4-9b50-65d13155e683.png)
+  ![image](https://user-images.githubusercontent.com/124126972/219273285-10008420-b580-45a4-9b50-65d13155e683.png)
 
   ## འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
   
- 1. རྩོམ་པ་པོ་མཚན་གྱི་ཐོག་ཏུ་སྣོན།
+ 1. རྩོམ་པ་པོ་མཚན་གྱི་ཐོག་ཏུ་སྣུན།
   
-  ![session name1 (8)](https://user-images.githubusercontent.com/124126972/219273906-6236c122-3305-4e9f-932f-249f8c78cb12.png)
+  ![image](https://user-images.githubusercontent.com/124126972/219273906-6236c122-3305-4e9f-932f-249f8c78cb12.png)
 
- 2. epub དང་ pdf གང་རུང་སྣོན་ཀྱང་འགྲིག། (epub ལ་སྣོན།)
+ 2. epub དང་ pdf གང་རུང་སྣུན་ཀྱང་འགྲིག། (epub ལ་སྣུན།)
   
-  ![session name1 (9)](https://user-images.githubusercontent.com/124126972/219274754-859fd141-0d52-4f92-8cf3-ee32c1dd735f.png)
+  ![image](https://user-images.githubusercontent.com/124126972/219274754-859fd141-0d52-4f92-8cf3-ee32c1dd735f.png)
 
-   3. དེབ་འདིའི་པར་ཀྱི་ཐོག་ཏུ་སྣོན།
+   3. དེབ་འདིའི་པར་ཀྱི་ཐོག་ཏུ་སྣུན།
   
-  ![session name1 (10)](https://user-images.githubusercontent.com/124126972/219275341-d8e3c103-fbfe-40fc-a65a-4cc47155d4b7.png)
+  ![image](https://user-images.githubusercontent.com/124126972/219275341-d8e3c103-fbfe-40fc-a65a-4cc47155d4b7.png)
 
   4. མཐའ་མ་getཞེས་པ་ལ་སྣོན་ནས་འཕྲུལ་དེབ་ཕབ་ལེན་བྱེད་ཐུབ།
   
-  ![session name1 (11)](https://user-images.githubusercontent.com/124126972/219275800-3fa9b6c3-8a46-4035-83ad-9b6c8c55408f.png)
+  ![image](https://user-images.githubusercontent.com/124126972/219275800-3fa9b6c3-8a46-4035-83ad-9b6c8c55408f.png)
   
   <details>
   <summary>རྒྱས་པ་སྟོན།</summary>
-   <details>
-  <summary>རྒྱས་པ་སྟོན།</summary>
+ 
 
 
 
-    ## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
+ ## གཉིས་པ། འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/hwZm9l6p_-g" title="Convert epub and cleanup file" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -73,45 +72,64 @@
  ## འཕྲུལ་དེབ་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ།
 
    1.ཐོག་མར་calibreསྒོ་ཕྱེ།
+    
+ ![image](https://user-images.githubusercontent.com/124126972/219547938-82ec4fb4-79b3-40dd-91cc-ee7b200959dc.png)
 
    2.formats ལ་སྣུན།
+    
+ ![image](https://user-images.githubusercontent.com/124126972/219553270-25688c5a-f295-4ee6-ae74-cde400d50328.png)
 
    3.convert book ལ་སྣུན་མ་ཐག་bulk convert ལ་ཡང་སྣུན།
+    
+ ![image](https://user-images.githubusercontent.com/124126972/219553727-708fc422-f88c-4871-b93f-7e5b6870aa5e.png)
 
-   4.ལག་གཡས་པ་ཕྱོགས་སུ་ཡོད་པའི་output format ཁ་སྐོང་ན་txtཞེས་པ་སྣུན།
+    4.ལག་གཡས་པ་ཕྱོགས་སུ་ཡོད་པའི་output format ཁ་སྐོང་ན་txtཞེས་པ་སྣུན།
+    
+ ![image](https://user-images.githubusercontent.com/124126972/219554693-6762f216-9e08-4868-8c7a-f17e3407cc43.png)
 
-   ## ཡིག་རྐྱང་ལ་ཇི་ལྟར་ལྟ་དགོས་ཚུལ།
+## ཡིག་རྐྱང་ལ་ཇི་ལྟར་ལྟ་དགོས་ཚུལ།
 
     txt ཡང་ན་ click to open ལ་སྣུན།
+    
+ ![image](https://user-images.githubusercontent.com/124126972/219552871-1dba49ec-d2d6-45ab-b421-657efb86c02b.png)
 
-   ## རྩོམ་བསྒྱུར་བྱེད་སའི་མཉན་ཆས།
+## རྩོམ་བསྒྱུར་བྱེད་སའི་མཉན་ཆས།
 
          སྒེའུ་ཁུང་རྟགས་ཅན།-notebook
 
          ཀུ་ཤུ་རྟགས་ཅན།-text editor
 
-   ## རྩོམ་བསྒྱུར་བྱེད་དགོས་དོན་ནི།
+## རྩོམ་བསྒྱུར་བྱེད་དགོས་དོན་ནི།
 
    foot note དང་རི་མོ་ལ་སོགས་པ་མི་དགོས་པ་རྣམས་གཙང་བཤུ་བྱ་དགོས་པ།
 
-   ## རྩོམ་བསྒྱུར་གཙང་བཤུ་བྱེད་སྟངས་ནི།
+## རྩོམ་བསྒྱུར་གཙང་བཤུ་བྱེད་སྟངས་ནི།
 
   1. ཡིག་རྐྱང་བཟོ་ཚར་བའི་folderའདི་ལ་རྩི་རྩི་གཡས་སྣུན་བྱེད་ནས་open with ཁ་ཐུག་notepadལ་སྣུན།
+    
+ ![image](https://user-images.githubusercontent.com/124126972/219555100-d30b7249-5087-4a3c-a14f-867ef954edb2.png)
 
   2.ཡི་གེ་མི་དགོས་པ་ཞིག་ལ་སྟགས་རྒྱག།
+    
+ ![image](https://user-images.githubusercontent.com/124126972/219555581-08ac85ff-302b-4ef4-8824-d77d23614c5e.png)
 
-  3.དེ་ནས་editབྱེད་replaceལ་སྣུན།
+3.དེ་ནས་editབྱེད་replaceལ་སྣུན།
+    
+![image](https://user-images.githubusercontent.com/124126972/219556243-26245c27-8fda-471f-8a67-86a65ecc2fe6.png)
 
-  4. ཡི་གེ་བསྒྱུར་དགོས་པ་འདི་replaceནང་དུ་བྲིས།
+4. ཡི་གེ་བསྒྱུར་དགོས་པ་འདི་replaceནང་དུ་བྲིས།
 
            གལ་སྲིད་ཡི་གེ་གཅིག་རང་བསྒྱུར་བཅོས་བྱེད་དགོས་ན་replaceསྣུན།
 
            ག་ལ་སྲིད་ཡི་གེ་ཆ་ཚང་བསྒྱུར་བཅོས་བྱེད་དགོས་ན་replace allསྣུན།
+    
+ ![image](https://user-images.githubusercontent.com/124126972/219556721-7ae8543c-f3d1-48d9-92f6-1466b4cc530c.png)
 
-  ## མཐའ་མ་ཉར་ཚག་་saveབྱེད་སྟངས་ནི།
+## མཐའ་མ་ཉར་ཚག་་saveབྱེད་སྟངས་ནི།
 
-   fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད
-
+ fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད།
+    
+ ![image](https://user-images.githubusercontent.com/124126972/219557802-c547a2f5-6b4e-4614-b97f-87ce4aca7150.png)
 
 
      
