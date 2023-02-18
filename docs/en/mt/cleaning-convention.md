@@ -16,6 +16,26 @@ The body text or body copy is the text forming the main content of a book, magaz
 ### Main Titles 
 Main titles refer to the title found at the begining of a text, a chapter or a section. This does not include running title found at the top or bottom of every page.
 
+## What to change
+### Merge split sentences
+Before
+
+```
+ But when the citizens love their duty, and the trustees of
+public authority apply themselves sincerely to the task of en-
+couraging this love through example and their own efforts,
+every difficulty vanishes, and administration becomes so easy as
+to render unnecessary those dark arts whose skill lies entirely in
+lack of scruple. Those minds so wide in scope, so dangerous
+```
+After
+
+```
+But when the citizens love their duty, and the trustees of public authority apply themselves sincerely to the task of encouraging this love through example and their own efforts, every difficulty vanishes, and administration becomes so easy asto render unnecessary those dark arts whose skill lies entirely in lack of scruple. 
+Those minds so wide in scope, so dangerous
+```
+
+
 ## 🗑️ What to delete
 
 ### Titles
