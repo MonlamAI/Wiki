@@ -1,4 +1,4 @@
-# 🧹 Text cleaning convention [ ᛃ](https://monlamai.github.io/Wiki/#/mt/cleaning-convention)
+# 🧹 Text cleaning convention [ 🌐](https://monlamai.github.io/Wiki/#/mt/cleaning-convention)
 
 ## 💾 What to keep
 

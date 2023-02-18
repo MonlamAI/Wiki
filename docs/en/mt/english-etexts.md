@@ -1,4 +1,4 @@
-# Searching and converting to plain text [ ᛃ ](mt/english-etexts.md)
+# Searching and converting to plain text [ 🌐 ](mt/english-etexts.md)
 
 ## English books sourcing workflow
 

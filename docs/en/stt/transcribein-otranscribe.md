@@ -1,5 +1,5 @@
 
-# OTranscribe [ ᛃ ](stt/transcribein-otranscribe.md)
+# OTranscribe [ 🌐 ](stt/transcribein-otranscribe.md)
 # 1) How to open otranscribe
 
 **1. Google search ནང་ལ་Otranscribe ཞེས་པ་བྲིས་ཏེ་ཚོལ།**

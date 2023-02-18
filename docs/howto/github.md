@@ -1,4 +1,4 @@
-# github སྤྱོད་ཚུལ། [ ᛃ ](en/howto/github.md)
+# github སྤྱོད་ཚུལ། [ 🌐 ](en/howto/github.md)
 ## 1) གྷི་ཐབ་ཁ་བྱང་བཟོ་ཚུལ། 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/tTvLl138ky4" title="How To Create Github Account || Signup Github" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

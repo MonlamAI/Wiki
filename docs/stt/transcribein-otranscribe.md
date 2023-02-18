@@ -1,5 +1,5 @@
 
-# OTranscribe བཀོལ་སྤྱོད་བྱེད་ཚུལ། [ ᛃ ](en/stt/transcribein-otranscribe.md)
+# OTranscribe བཀོལ་སྤྱོད་བྱེད་ཚུལ། [ 🌐 ](en/stt/transcribein-otranscribe.md)
 # 1) ཐོག་མར་ Otranscribe སྒོ་འབྱེད་ཚུལ།
 
 <details>

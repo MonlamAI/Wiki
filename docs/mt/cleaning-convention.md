@@ -1,4 +1,4 @@
-# 🧹 གཙང་བཟོའི་སྒྲིག་གཞི། [ ᛃ](https://monlamai.github.io/Wiki/#/en/mt/cleaning-convention)
+# 🧹 གཙང་བཟོའི་སྒྲིག་གཞི། [ 🌐](https://monlamai.github.io/Wiki/#/en/mt/cleaning-convention)
 
 ## 💾 ཉར་དགོས་པའི་རིགས།
 
