@@ -5,16 +5,6 @@
 ![image](https://user-images.githubusercontent.com/17675331/219353474-f8079425-f2cd-415f-b9fd-1c4d6b9c02c1.png)
 
 
-## གཙང་བཟོའི་སྒྲིག་གཞི། [ ᛃ](https://monlamai.github.io/Wiki/#/en/mt/english-etexts?id=text-cleanup-convention)
-
-### ཤོག་གྲངས།
-
-### ལེའུའི་ཁ་བྱང་།
-
-### ཤོག་མཐའི་ཁ་བྱང་།
-
-![image](https://user-images.githubusercontent.com/17675331/219356270-e96d920e-689d-48e5-84d9-004423498431.png)
-
 ## དང་པོ། མཚན་བྱང་འཚོལ་ཞིབ་དང་འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
 
 <iframe width="911" height="513" src="https://www.youtube.com/embed/qv2UBxyjrzg" title="Get title and download from libgen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
