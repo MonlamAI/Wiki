@@ -3,6 +3,8 @@
   - [📚-Bo-En catalog](en/mt/boen-catalog.md)
   - [🔍Bo text versions](en/mt/bo-versions.md)
   - [📚-En-Bo catalog](en/mt/enbo-catalog.md)
+  - [📄 English etexts](en/mt/english-etexts.md)
+  - [🧹 Cleaning conventions](en/mt/cleaning-convention.md)
   - [🔗Alignment proofreading](en/mt/proofreading-alignment.md)
 
 - STT
