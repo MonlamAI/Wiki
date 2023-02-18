@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/17675331/219353474-f8079425-f2cd-415f-b9fd-1c4d6b9c02c1.png)
 
 
-## Text cleanup convention
+## Text cleanup convention [ ᛃ](https://monlamai.github.io/Wiki/#/mt/english-etexts?id=གཙང་བཟོའི་སྒྲིག་གཞི།)
 
 ### Titles
 

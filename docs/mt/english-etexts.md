@@ -1,7 +1,7 @@
-# དཔེ་ཆ་འཚོལ་ཞིབ་དང་དེ་དག་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ། [ ᛃ ](en/mt/english-etexts.md)
+# དཔེ་ཆ་འཚོལ་ཞིབ་དང་དེ་དག་ཡིག་རྐྱང་ལ་བསྒྱུར་ཚུལ། [ ᛃ](en/mt/english-etexts.md)
 
 
-## དབྱིན་ཡིག་ཡིག་རྐྱང་མཁོ་སྒྲུབ་ཀྱི་ལས་རིམ།
+## དབྱིན་ཡིག་ཡིག་རྐྱང་མཁོ་སྒྲུབ་ཀྱི་ལས་རིམ། [ ᛃ](https://monlamai.github.io/Wiki/#/en/mt/english-etexts?id=text-cleanup-convention)
 ![image](https://user-images.githubusercontent.com/17675331/219353474-f8079425-f2cd-415f-b9fd-1c4d6b9c02c1.png)
 
 
