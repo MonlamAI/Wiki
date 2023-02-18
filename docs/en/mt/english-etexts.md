@@ -1,13 +1,18 @@
-# Search books and convert to text [ ᛃ ](mt/english-etexts.md)
+# Searching and converting to plain text [ ᛃ ](mt/english-etexts.md)
 
-**Content**
-- Search for books
-- Identify the links
-- Search in Libgen
-- Search for etext and download
-    - Convert text file
-- Search for PDF and Convert
-   - Convert to text file
+## English books sourcing workflow
+
+![image](https://user-images.githubusercontent.com/17675331/219353474-f8079425-f2cd-415f-b9fd-1c4d6b9c02c1.png)
+
+
+## Text cleanup convention
+
+### Titles
+
+### Running titles
+
+### Page numbers
+
 
 ## 1) Search for book title and download
 
