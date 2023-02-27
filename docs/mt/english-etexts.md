@@ -14,11 +14,11 @@
 
 ### མཚན་བྱང་འཚོལ་ཞིབ་བྱ་རྒྱུ་ལ་ཐབས་ལམ་གཉིས་ཡོད།
   
-ཐབས་ལམ་དང་པོ། མཚན་བྱང་སྟེང་དུ་ཡོད་པའི་དྲྭ་རྟགས་ལ་སྣུན།
+ཐབས་ལམ་དང་པོ། མཚན་བྱང་སྟེང་དུ་ཡོད་པའི་དྲྭ་ཐག་་ལ་སྣུན།
   
 ![image](https://user-images.githubusercontent.com/124126972/219266745-4354b9fd-a3e1-4e2b-9276-8c20f3ab4833.png)
 
-ཐབས་ལམ་གཉིས་པ། 1. goole search ནང་དུ་དཔེ་མཛོད་ibgen ཞེས་པ་དེ་འཚོལ།
+ཐབས་ལམ་གཉིས་པ། 1. goole search ནང་དུ་དཔེ་མཛོདlibgen ཞེས་པ་དེ་འཚོལ།
   
 ![image](https://user-images.githubusercontent.com/124126972/219565257-28592766-0db8-429c-bade-d33bb32fce90.png)
   
@@ -32,15 +32,15 @@
   
 ![image](https://user-images.githubusercontent.com/124126972/219273906-6236c122-3305-4e9f-932f-249f8c78cb12.png)
 
-1. epub དང་ pdf གང་རུང་སྣུན་ཀྱང་འགྲིག། (epub ལ་སྣུན།)
+2. epub ལ་སྣུན།
   
 ![image](https://user-images.githubusercontent.com/124126972/219274754-859fd141-0d52-4f92-8cf3-ee32c1dd735f.png)
 
-1. དེབ་འདིའི་པར་ཀྱི་ཐོག་ཏུ་སྣུན།
+3. དེབ་འདིའི་པར་ཀྱི་ཐོག་ཏུ་སྣུན།
   
 ![image](https://user-images.githubusercontent.com/124126972/219564529-467e1185-cbe1-4cb7-a51a-b3e7f7d26865.png)
 
-1. མཐའ་མ་getཞེས་པ་ལ་སྣོན་ནས་འཕྲུལ་དེབ་ཕབ་ལེན་བྱེད་ཐུབ།
+4. མཐའ་མ་getཞེས་པ་ལ་སྣོན་ནས་འཕྲུལ་དེབ་ཕབ་ལེན་བྱེད་ཐུབ།
   
 ![image)](https://user-images.githubusercontent.com/124126972/219563149-fd32e444-96bb-48f6-8040-066c9190a1bc.png)
 
@@ -63,15 +63,15 @@
     
 ![image](https://user-images.githubusercontent.com/124126972/219547938-82ec4fb4-79b3-40dd-91cc-ee7b200959dc.png)
 
-1. Formats ལ་སྣུན།
+2. Formats ལ་སྣུན།
     
 ![image](https://user-images.githubusercontent.com/124126972/219553270-25688c5a-f295-4ee6-ae74-cde400d50328.png)
 
-1. Convert book ལ་སྣུན་མ་ཐག་bulk convert ལ་ཡང་སྣུན།
+2. Convert book ལ་སྣུན་མ་ཐག་bulk convert ལ་ཡང་སྣུན།
     
 ![image](https://user-images.githubusercontent.com/124126972/219553727-708fc422-f88c-4871-b93f-7e5b6870aa5e.png)
 
-1. ལག་གཡས་པ་ཕྱོགས་སུ་ཡོད་པའི་output format ཁ་སྐོང་ན་txtཞེས་པ་སྣུན།
+3. ལག་གཡས་པ་ཕྱོགས་སུ་ཡོད་པའི་output format ཁ་སྐོང་ན་txtཞེས་པ་སྣུན།
     
 ![image](https://user-images.githubusercontent.com/124126972/219554693-6762f216-9e08-4868-8c7a-f17e3407cc43.png)
 
@@ -136,11 +136,11 @@ fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད།
    
 ![image](https://user-images.githubusercontent.com/124126972/219572712-b25630e3-e75a-440b-9013-cff3ffb1a08e.png)
 
-1. རི་མོ་ཐོག་ཏུ་སྣུན།
+2. རི་མོ་ཐོག་ཏུ་སྣུན།
    
 ![image](https://user-images.githubusercontent.com/124126972/219573411-5daa38bb-9df0-416d-9a79-f6e68815a0c3.png)
 
-1. getཞེས་པ་དེ་ལ་ཡང་སྣོན་པ་དང་ཕབ་ལེན་བྱེད་བཞིན་པའི་སྐབས་རེད།
+3. getཞེས་པ་དེ་ལ་ཡང་སྣོན་པ་དང་ཕབ་ལེན་བྱེད་བཞིན་པའི་སྐབས་རེད།
 
 ![image)](https://user-images.githubusercontent.com/124126972/219574097-c8d04f9d-f02c-4ccd-a1c5-d4b09e291697.png)
 
