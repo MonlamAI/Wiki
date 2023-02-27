@@ -151,7 +151,7 @@ fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད།
    
 ![session name1](https://user-images.githubusercontent.com/124126972/219576325-eeed9b86-f3a3-45b4-81a6-20c42510f439.png)
    
-2.upload filesནང་དུ་དེབ་འདི་མཚན་བྱནང་བླུགས་ནས་ཁ་ཐུག་ཕབ་ལེན་བྱས།
+2.upload filesནང་དུ་དེབ་འདི་མཚན་བྱང་ནང་བླུགས་ནས་ཁ་ཐུག་ཕབ་ལེན་བྱས།
    
 ![image](https://user-images.githubusercontent.com/124126972/219578875-33290f24-de15-4bce-a125-76d782fe92b9.png)
 
