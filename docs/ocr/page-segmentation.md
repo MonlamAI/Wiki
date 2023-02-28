@@ -2,10 +2,12 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Krbm8aXZE4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# ཤོག་ངོས་ངོས་འཛིན་རིག་ནུས།
-
 <details>
   <summary>Click me</summary>
+
+་
+  
+# ཤོག་ངོས་ངོས་འཛིན་རིག་ནུས།
   
 ## ཤོག་ངོས་ངོས་འཛིན་རིག་ནུས་སྦྱོང་བསྡར་གྱི་རྒྱུ་ཆ་བཟོ་སྟངས།
   
