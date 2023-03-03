@@ -19,16 +19,13 @@
   
 ![session name1 (38)](https://user-images.githubusercontent.com/124126972/222678690-e7b4e8c6-a7ce-422d-8d1a-ae49995e9ccc.png)
 
-
 ཐབས་ལམ་གཉིས་པ། 1. goole search ནང་དུ་དཔེ་མཛོདlibgen ཞེས་པ་དེ་འཚོལ།
   
 ![session name1 (39)](https://user-images.githubusercontent.com/124126972/222680454-72c621d9-4300-4de9-af9c-0cf5447603bf.png)
 
-  
 1. search ཟེར་བའི་སྟོང་ཆ་དེ་ནང་དུ་རྩོམ་པ་པོ་མཚན་བྱང་འཚོལ་ཞིབ་བྱེད།
   
 ![session name1 (40)](https://user-images.githubusercontent.com/124126972/222681641-e00c7436-9b72-43b5-b990-a084693873b0.png)
-
 
 ### འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
   
@@ -36,11 +33,9 @@
   
 ![session name1 (41)](https://user-images.githubusercontent.com/124126972/222682941-2da94793-405e-4c66-9344-ddef883dcbad.png)
 
-
 2. epub ལ་སྣུན།
   
 ![session name1 (42)](https://user-images.githubusercontent.com/124126972/222684749-e7bfe0bd-d044-4818-9732-2fa849362b3f.png)
-
 
 3. དེབ་འདིའི་པར་ཀྱི་ཐོག་ཏུ་སྣུན།
   
@@ -70,25 +65,25 @@
     
 ![session name1 (47)](https://user-images.githubusercontent.com/124126972/222691024-df7dcb09-211e-442c-81bf-526b60e1d66a.png)
 
-
-
 2. Formats ལ་སྣུན།
     
-![image](https://user-images.githubusercontent.com/124126972/219553270-25688c5a-f295-4ee6-ae74-cde400d50328.png)
+![session name1 (48)](https://user-images.githubusercontent.com/124126972/222709470-b359634f-3086-4019-a0fc-f21789660390.png)
 
 2. Convert book ལ་སྣུན་མ་ཐག་bulk convert ལ་ཡང་སྣུན།
     
-![image](https://user-images.githubusercontent.com/124126972/219553727-708fc422-f88c-4871-b93f-7e5b6870aa5e.png)
+![session name1 (50)](https://user-images.githubusercontent.com/124126972/222711879-54a1a5ef-9188-4323-94ce-75ba97ade277.png)
 
 3. ལག་གཡས་པ་ཕྱོགས་སུ་ཡོད་པའི་output format ཁ་སྐོང་ན་txtཞེས་པ་སྣུན།
     
-![image](https://user-images.githubusercontent.com/124126972/219554693-6762f216-9e08-4868-8c7a-f17e3407cc43.png)
+![session name1 (51)](https://user-images.githubusercontent.com/124126972/222714043-4d67b7d8-3cca-493b-8d92-04603cb7fcdb.png)
+
 
 ### ཡིག་རྐྱང་ལ་ཇི་ལྟར་ལྟ་དགོས་ཚུལ།
 
 txt ཡང་ན་ click to open ལ་སྣུན།
-    
-![image](https://user-images.githubusercontent.com/124126972/219552871-1dba49ec-d2d6-45ab-b421-657efb86c02b.png)
+
+![session name1 (52)](https://user-images.githubusercontent.com/124126972/222715280-862e7953-ef53-4e34-9ddf-a1b483afa57b.png)
+
 
 ### ཡིག་ཆ་ཕན་ཚུན་བསྒྱུར་སའི་མཉེན་ཆས།
   
@@ -104,28 +99,30 @@ foot note དང་རི་མོ་ལ་སོགས་པ་མི་དག�
 
 1. ཡིག་རྐྱང་བཟོ་ཚར་བའི་folderའདི་ལ་རྩི་རྩི་གཡས་སྣུན་བྱེད་ནས་open with ཁ་ཐུག་notepadལ་སྣུན།
     
-![image](https://user-images.githubusercontent.com/124126972/219555100-d30b7249-5087-4a3c-a14f-867ef954edb2.png)
+![session name1 (53)](https://user-images.githubusercontent.com/124126972/222716611-a595875f-1614-4f04-bede-0756b0723b67.png)
 
 2.ཡི་གེ་མི་དགོས་པ་ཞིག་ལ་སྟགས་རྒྱག།
     
-![image](https://user-images.githubusercontent.com/124126972/219555581-08ac85ff-302b-4ef4-8824-d77d23614c5e.png)
+![session name1 (55)](https://user-images.githubusercontent.com/124126972/222717524-25e0c7c6-a53f-4791-b83d-e5e060edf9bb.png)
 
 3.དེ་ནས་editབྱེད་replaceལ་སྣུན།
     
-![image](https://user-images.githubusercontent.com/124126972/219556243-26245c27-8fda-471f-8a67-86a65ecc2fe6.png)
+![session name1 (56)](https://user-images.githubusercontent.com/124126972/222718623-c634d326-0352-4410-b683-ba83d5e5278a.png)
 
-1. ཡི་གེ་བསྒྱུར་དགོས་པ་འདི་replaceནང་དུ་བྲིས།
+4. ཡི་གེ་བསྒྱུར་དགོས་པ་འདི་replaceནང་དུ་བྲིས།
 
 - གལ་སྲིད་ཡི་གེ་གཅིག་རང་བསྒྱུར་བཅོས་བྱེད་དགོས་ན་replaceསྣུན།
 - ག་ལ་སྲིད་ཡི་གེ་ཆ་ཚང་བསྒྱུར་བཅོས་བྱེད་དགོས་ན་replace allསྣུན།
     
-![image](https://user-images.githubusercontent.com/124126972/219556721-7ae8543c-f3d1-48d9-92f6-1466b4cc530c.png)
+![session name1 (57)](https://user-images.githubusercontent.com/124126972/222719636-58f70f14-fae6-4df6-b8c8-5486e2f718d7.png)
+
 
 ### མཐའ་མ་ཉར་ཚག་་saveབྱེད་སྟངས་ནི།
 
 fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད།
     
-![image](https://user-images.githubusercontent.com/124126972/219557802-c547a2f5-6b4e-4614-b97f-87ce4aca7150.png)
+![session name1 (58)](https://user-images.githubusercontent.com/124126972/222720896-d27348cc-4bc8-41e0-896e-2ff5035e7bbe.png)
+
 
 
 </details>  
