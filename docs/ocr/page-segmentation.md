@@ -12,11 +12,11 @@
   
 ཐོག་མར་mozilla firebox ཞེས་པ་ཁ་ཕྱེ་ནས་དེ་ནང་ཡོད་པས་དྲྭ་ཐག་དེ་ལ་སོ་སོ་མིང་ཡོད་པ་གཟིགས་ཐུབ།
 
-![session name1 (23)](https://user-images.githubusercontent.com/124126972/222361855-4abe8ecc-1e54-45cf-879f-c24084b8d813.png)
+![session name1 (30)](https://user-images.githubusercontent.com/124126972/222646394-0816aec1-8145-4bef-9435-d472560bfb95.png)
 
 དེ་ནས་སོ་སོར་ལག་པ་གཡོན་ཕྱོགས་སུ་session=ཞེས་སོ་སོར་མིང་འགྲིག་ཡོད་མིན་དོ་སྣང་བྱེད།
 
-![session name1 (25)](https://user-images.githubusercontent.com/124126972/222363696-0044d8b3-8798-45b2-af33-458a90beded0.png)
+![session name1 (31)](https://user-images.githubusercontent.com/124126972/222647097-0b7deff6-8b4e-4979-877b-753b55b2297d.png)
 
 ### ཤོག་ངོས་ངོས་འཛིན་བྱེད་སྟངས་ལ་རྟགས་རྒྱག་སྟངས་གཉིས་ཡོད་།
 
@@ -64,11 +64,11 @@
   
 * ཐོག་མར་mozilla firebox ཞེས་པ་ཁ་ཕྱེ་ནས་དེ་ནང་ཡོད་པས་དྲྭ་ཐག་དེ་ལ་སོ་སོ་མིང་ཡོད་པ་གཟིགས་ཐུབ།
 
-![session name1](https://user-images.githubusercontent.com/124126972/222130082-02e650d7-2947-44cc-85c5-f642f536eaf2.png)
-  
-* དེ་ནས་སོ་སོར་ལག་པ་གཡོན་ཕྱོགས་སུ་session=ཞེས་སོ་སོར་མིང་འགྲིག་ཡོད་མིན་དོ་སྣང་བྱེད།
+![session name1 (30)](https://user-images.githubusercontent.com/124126972/222646431-44bf809e-7bb7-4817-8f66-d296e1073806.png)
 
-![session name1 (25)](https://user-images.githubusercontent.com/124126972/222363696-0044d8b3-8798-45b2-af33-458a90beded0.png)
+  * དེ་ནས་སོ་སོར་ལག་པ་གཡོན་ཕྱོགས་སུ་session=ཞེས་སོ་སོར་མིང་འགྲིག་ཡོད་མིན་དོ་སྣང་བྱེད།
+
+![session name1 (31)](https://user-images.githubusercontent.com/124126972/222647225-244ce1e8-1919-4f71-bbb7-c669178ebdc2.png)
 
 ### པར་རིས་ནང་གི་མིང་བྱང་དེ་དག་རྟགས་རྒྱག་སྟངས་གཉིས་ཡོད།
 
