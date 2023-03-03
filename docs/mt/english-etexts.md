@@ -17,33 +17,39 @@
 ཐབས་ལམ་དང་པོ། མཚན་བྱང་སྟེང་དུ་ཡོད་པའི་དྲྭ་ཐག་་ལ་སྣུན།་ 
 [The PrinceThink](https://www.gutenberg.org/ebooks/1232)
   
-![image](https://user-images.githubusercontent.com/124126972/219266745-4354b9fd-a3e1-4e2b-9276-8c20f3ab4833.png)
+![session name1 (38)](https://user-images.githubusercontent.com/124126972/222678690-e7b4e8c6-a7ce-422d-8d1a-ae49995e9ccc.png)
+
 
 ཐབས་ལམ་གཉིས་པ། 1. goole search ནང་དུ་དཔེ་མཛོདlibgen ཞེས་པ་དེ་འཚོལ།
   
-![image](https://user-images.githubusercontent.com/124126972/219565257-28592766-0db8-429c-bade-d33bb32fce90.png)
+![session name1 (39)](https://user-images.githubusercontent.com/124126972/222680454-72c621d9-4300-4de9-af9c-0cf5447603bf.png)
+
   
 1. search ཟེར་བའི་སྟོང་ཆ་དེ་ནང་དུ་རྩོམ་པ་པོ་མཚན་བྱང་འཚོལ་ཞིབ་བྱེད།
   
-![image](https://user-images.githubusercontent.com/124126972/219563864-942ea3c3-9092-45dc-8a02-b7bc02cb03be.png)
+![session name1 (40)](https://user-images.githubusercontent.com/124126972/222681641-e00c7436-9b72-43b5-b990-a084693873b0.png)
+
 
 ### འཕྲུལ་དེབ་ཕབ་ལེན་བྱ་ཚུལ།
   
 1. རྩོམ་པ་པོ་མཚན་གྱི་ཐོག་ཏུ་སྣུན།
   
-![image](https://user-images.githubusercontent.com/124126972/219273906-6236c122-3305-4e9f-932f-249f8c78cb12.png)
+![session name1 (41)](https://user-images.githubusercontent.com/124126972/222682941-2da94793-405e-4c66-9344-ddef883dcbad.png)
+
 
 2. epub ལ་སྣུན།
   
-![image](https://user-images.githubusercontent.com/124126972/219274754-859fd141-0d52-4f92-8cf3-ee32c1dd735f.png)
+![session name1 (42)](https://user-images.githubusercontent.com/124126972/222684749-e7bfe0bd-d044-4818-9732-2fa849362b3f.png)
+
 
 3. དེབ་འདིའི་པར་ཀྱི་ཐོག་ཏུ་སྣུན།
   
-![image](https://user-images.githubusercontent.com/124126972/219564529-467e1185-cbe1-4cb7-a51a-b3e7f7d26865.png)
+![session name1 (43)](https://user-images.githubusercontent.com/124126972/222685872-2cd6a7a0-d4ea-42b0-8f80-77745cc6452e.png)
 
 4. མཐའ་མ་getཞེས་པ་ལ་སྣོན་ནས་འཕྲུལ་དེབ་ཕབ་ལེན་བྱེད་ཐུབ།
   
-![image)](https://user-images.githubusercontent.com/124126972/219563149-fd32e444-96bb-48f6-8040-066c9190a1bc.png)
+![session name1 (45)](https://user-images.githubusercontent.com/124126972/222686650-a142b0c6-1e13-4e9b-ae53-190043d4e6ce.png)
+
 
   
 </details>
@@ -62,7 +68,9 @@
 
 1. ཐོག་མར་calibreསྒོ་ཕྱེ།
     
-![image](https://user-images.githubusercontent.com/124126972/219547938-82ec4fb4-79b3-40dd-91cc-ee7b200959dc.png)
+![session name1 (47)](https://user-images.githubusercontent.com/124126972/222691024-df7dcb09-211e-442c-81bf-526b60e1d66a.png)
+
+
 
 2. Formats ལ་སྣུན།
     
