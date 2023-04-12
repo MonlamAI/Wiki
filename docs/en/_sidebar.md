@@ -9,6 +9,7 @@
 
 - STT
   - [📝Transcription with oTranscribe](en/stt/transcribein-otranscribe.md)
+  - [📝Transcription with SayMore](en/stt/transcribe-in-saymore.md)
 
 - Basic Skills
   - [Github](en/howto/github.md)
