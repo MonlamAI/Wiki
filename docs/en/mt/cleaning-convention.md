@@ -40,6 +40,14 @@ Those minds so wide in scope, so dangerous
 
 ### Titles
 
+### Acknowledgement
+
+### Forwards
+
+### Table of contents
+
+### Images
+
 ### Running titles 
 
 Runnign title in a pdf.
@@ -58,5 +66,6 @@ provide for the conservation of the least of its members with as
 ```
 
 ### Page numbers
+### Footnote marker numbers
 
 
