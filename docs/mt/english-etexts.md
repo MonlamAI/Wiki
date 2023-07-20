@@ -185,4 +185,5 @@ fileནས་saveཡང་ན་save asལ་ཉར་ཚག་བྱེད།
 ![session name1 (58)](https://user-images.githubusercontent.com/124126972/222720896-d27348cc-4bc8-41e0-896e-2ff5035e7bbe.png)
 
 
+
   </details>
